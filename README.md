@@ -40,7 +40,7 @@ I have redesigned it so the **Images (Visual Intelligence)** are at the **VERY T
 *See the tool in action before you run it.*
 
 <p float="left" align="center">
-<img src="Images/cli_preview.png" width="48%" alt="CLI Interface" />
+<img src="Images/cli_preview.PNG" width="48%" alt="CLI Interface" />
 <img src="Images/report_preview.png" width="48%" alt="HTML Audit Report" />
 </p>
 <p align="center"><i><b>Left:</b> The Command Line Interceptor • <b>Right:</b> The Forensic HTML Audit</i></p>
